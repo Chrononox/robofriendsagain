@@ -67,8 +67,8 @@ export const robots = [
     },
     {
       id: 11,
-      name: 'Kaliko',
-      username: 'Kliko.Kitty',
+      name: 'Kalicko',
+      username: 'Klicko.Kitty',
       email: 'kaliko@kitty.mow'
     },
     {
