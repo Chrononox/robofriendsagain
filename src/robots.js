@@ -63,6 +63,18 @@ export const robots = [
       id: 12,
       name: 'Chrono',
       username: 'Chrono.Nox',
-      email: 'Chrono.nox@email.omg'
-    }
+      email: 'chrono.nox@email.omg'
+    },
+    {
+      id: 11,
+      name: 'Kaliko',
+      username: 'Kliko.Kitty',
+      email: 'kaliko@kitty.mow'
+    },
+    {
+      id: 13,
+      name: 'Kenzy',
+      username: 'Kenzy',
+      email: 'kenzy@kenzi.co'
+    },
   ];
