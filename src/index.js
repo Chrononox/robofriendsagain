@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 
 import './index.css';       //index style sheet
-import CardList from './CardList';
+import CardList from './CardList'; //gets all the cards for each user
 import 'tachyons'   //for styling
 import {robots} from './robots'; //must desrtucture as there is no default export
 
